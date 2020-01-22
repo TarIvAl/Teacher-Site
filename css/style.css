@@ -173,7 +173,7 @@ a:hover {
   align-items: center;
   -webkit-box-pack: justify;
   justify-content: space-between;
-  background-color: rgba(197, 252, 192, 0.77);
+  background-color: rgba(252, 192, 192, 0.8);
   padding: 40px 35px 43px;
   border-radius: 20px;
   -webkit-filter: drop-shadow(1px 1px 10px #535353);
@@ -204,10 +204,10 @@ a:hover {
         max-width: 90%; } }
 
 .for-students {
-  background-color: #c5fcc0; }
+  background-color: #fcc0c0; }
 
 .for-parents {
-  background-color: rgba(197, 252, 192, 0.77);
+  background-color: rgba(252, 192, 192, 0.8);
   border-radius: 20px; }
   .for-parents__box {
     display: -webkit-box;
@@ -231,7 +231,7 @@ a:hover {
           margin-bottom: 25px; } }
 
 .for-teachers {
-  background-color: #c5fcc0; }
+  background-color: #fcc0c0; }
   .for-teachers__flexbox {
     display: -webkit-box;
     display: flex;
